@@ -13,7 +13,4 @@
     <li>Aninhamento</li>
     <li>Entre Outros...</li>
 </ul>
-
-    <a href="https://alura-spar.vercel.app/">Link do projeto</a>
-    
 <img src="imagens/Projeto.png" alt="spoiler de projeto">
